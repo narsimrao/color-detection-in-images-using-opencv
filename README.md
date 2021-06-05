@@ -3,5 +3,8 @@
 
 The objective is to find the color of an image where the mouse is being clicked.
 
-https://user-images.githubusercontent.com/39879516/120888031-c4996e80-c613-11eb-9835-cee08820186e.mp4
+Screen shot: 
 
+![image](https://user-images.githubusercontent.com/39879516/120888098-2b1e8c80-c614-11eb-96d6-932c5e099902.png)
+
+![image](https://user-images.githubusercontent.com/39879516/120888110-396ca880-c614-11eb-9e3c-e946b5f79dba.png)
